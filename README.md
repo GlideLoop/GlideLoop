@@ -89,3 +89,7 @@ GlideLoop의 코어 라이브러리는 모두 버전 분리 기능을 통해 작
 해당 사항은 GlideLoop만이 아닌, 라이브러리를 통한 개발을 통한다면 피할 수 없습니다.
 
 해당 부분은 버전 분리 기능에서 앞으로도 지원될 일이 없습니다.
+
+### GlideLoop 프로젝트의 개발 계획이 어떻게 되나요?
+GlideLoop 프로젝트는 기초 개발 계획이 미리 세워져 있으며, 다음의 사진에서 계획을 확인할 수 있습니다.
+![GlideLoop Progress](https://github.com/GlideLoop/GlideLoop/blob/master/glideloop_progress.png)
